@@ -1,0 +1,392 @@
+/* iOS/Status/Light */
+
+
+position: absolute;
+width: 375px;
+height: 44px;
+left: 0px;
+top: 0px;
+
+
+
+/* Navi/Main/Home */
+
+
+position: absolute;
+width: 375px;
+height: 78px;
+left: 0px;
+bottom: 0px;
+
+
+/* Hero Div */
+
+
+position: absolute;
+width: 342px;
+height: 124px;
+left: 17px;
+top: 87px;
+
+
+/* main title */
+
+
+position: absolute;
+width: 342px;
+height: 94px;
+left: 17px;
+top: 87px;
+
+font-family: Nunito;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 130%;
+/* or 47px */
+
+display: flex;
+align-items: flex-end;
+letter-spacing: -0.02em;
+
+/* white */
+
+color: #FFFFFF;
+
+
+
+
+/* subtitle */
+
+
+position: absolute;
+left: 4.8%;
+right: 8.27%;
+top: 23.28%;
+bottom: 74.01%;
+
+font-family: Nunito;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 22px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+letter-spacing: -0.02em;
+
+/* white */
+
+color: #FFFFFF;
+
+
+/* filter background */
+
+
+position: absolute;
+width: 376px;
+height: 509px;
+left: 0px;
+top: 225px;
+
+background: #191A1D;
+border-radius: 30px 30px 0px 0px;
+
+
+
+/* Destination */
+
+
+position: absolute;
+width: 220px;
+height: 50px;
+left: 18px;
+top: 267px;
+
+/* Destination Rectangle */
+
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #1E1E1F;
+box-shadow: inset -5px -5px 10px #242529, inset 5px 5px 10px #0A0A0A;
+border-radius: 30px;
+
+/* destination text */
+
+
+position: absolute;
+height: 22px;
+left: 14px;
+right: 16px;
+top: 15px;
+
+font-family: Nunito;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 22px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+letter-spacing: -0.02em;
+
+/* gray */
+
+color: #999999;
+
+
+/* Date */
+
+
+position: absolute;
+width: 220px;
+height: 50px;
+left: 18px;
+top: 340px;
+
+
+/* Date Rectangle */
+
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #1E1E1F;
+box-shadow: inset -5px -5px 10px #242529, inset 5px 5px 10px #0A0A0A;
+border-radius: 30px;
+
+
+/* Date text */
+
+
+position: absolute;
+height: 22px;
+left: 14px;
+right: 16px;
+top: 15px;
+
+font-family: Nunito;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 22px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+letter-spacing: -0.02em;
+
+/* gray */
+
+color: #999999;
+
+
+/* Button/Search */
+
+
+position: absolute;
+width: 338px;
+height: 70px;
+left: 18px;
+top: 419px;
+
+box-shadow: 0px 10px 40px rgba(248, 161, 112, 0.2);
+
+
+/* Search rectangle */
+
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* orange-gradient */
+
+background: #FF6161;
+border-radius: 50px;
+
+/* Search text */
+
+
+position: absolute;
+left: 5.92%;
+right: 6.21%;
+top: 12.86%;
+bottom: 10.48%;
+
+font-family: Nunito;
+font-style: normal;
+font-weight: 800;
+font-size: 24px;
+line-height: 33px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.02em;
+
+/* white */
+
+color: #FFFFFF;
+text-shadow: 0px 0px 4px rgba(0, 0, 0, 0.25);
+
+/* Recommended 1 */
+
+
+position: absolute;
+width: 265px;
+height: 185px;
+left: 18px;
+top: 612px;
+
+/* Price */
+
+
+position: absolute;
+width: 36px;
+height: 16px;
+left: 165px;
+top: 155px;
+
+font-family: Nunito;
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 16px;
+display: flex;
+align-items: center;
+letter-spacing: -0.02em;
+
+color: #FFFFFF;
+
+/* Review */
+
+
+position: absolute;
+width: 34.51px;
+height: 16px;
+left: 213px;
+top: 155px;
+
+/* star */
+
+
+position: absolute;
+width: 12.54px;
+height: 11.99px;
+left: 234.97px;
+top: 156.51px;
+
+background: rgba(255, 255, 255, 0.5);
+
+/* score */
+
+
+position: absolute;
+width: 17px;
+height: 16px;
+left: 213px;
+top: 155px;
+
+font-family: Nunito;
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 16px;
+display: flex;
+align-items: center;
+letter-spacing: -0.02em;
+
+color: #FFFFFF;
+
+
+/* Place */
+
+
+position: absolute;
+width: 81px;
+height: 19px;
+left: 15px;
+top: 152px;
+
+font-family: Nunito;
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 19px;
+/* identical to box height */
+
+display: flex;
+align-items: flex-end;
+letter-spacing: -0.02em;
+
+color: #FFFFFF;
+
+/* Name */
+
+
+position: absolute;
+width: 210px;
+height: 25px;
+left: 15px;
+top: 122px;
+
+font-family: Nunito;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 25px;
+/* identical to box height */
+
+display: flex;
+align-items: flex-end;
+letter-spacing: -0.02em;
+
+color: #FFFFFF;
+
+
+/* Rectangle 1 */
+
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #C4C4C4;
+border-radius: 20px;
+
+/* Rectangle 2 */
+
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: -0.54%;
+bottom: 0%;
+
+background: linear-gradient(360deg, rgba(0, 0, 0, 0.7) 0%, rgba(0, 0, 0, 0.3) 33.74%, rgba(0, 0, 0, 0) 62.9%);
+
+
+/* gallery_images_ib1810173-2012 (1) 1 */
+
+
+position: absolute;
+width: 265px;
+height: 185px;
+left: 0px;
+top: 0px;
+
+background: url(gallery_images_ib1810173-2012 (1).jpg);
