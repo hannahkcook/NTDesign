@@ -390,3 +390,14 @@ left: 0px;
 top: 0px;
 
 background: url(gallery_images_ib1810173-2012 (1).jpg);
+
+/* Rectangle Darken */
+
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: -0.54%;
+bottom: 0%;
+
+background: linear-gradient(360deg, rgba(0, 0, 0, 0.7) 0%, rgba(0, 0, 0, 0.3) 33.74%, rgba(0, 0, 0, 0) 62.9%);
